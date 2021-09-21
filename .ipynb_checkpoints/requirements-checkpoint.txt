@@ -1,0 +1,9 @@
+#Librairies
+# conda install --file requirements.txt
+
+pandas
+re
+nltk
+collections
+os
+matplotlib

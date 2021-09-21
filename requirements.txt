@@ -1,0 +1,7 @@
+#Librairies
+pandas
+re
+nltk
+collections
+os
+matplotlib.pyplot

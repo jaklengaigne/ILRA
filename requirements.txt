@@ -4,4 +4,4 @@ re
 nltk
 collections
 os
-matplotlib.pyplot
+matplotlib

@@ -7,3 +7,4 @@ nltk
 collections
 os
 matplotlib
+itertools
